@@ -30,3 +30,39 @@ c:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\threat-modeling-d
 c:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.pdb
 c:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.genruntimeconfig.cache
 c:\Users\Trevoir\OneDrive\Courses\Secure Coding in C# and .NET\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\ref\OrderManagementApi.dll
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\appsettings.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\OrderManagementApi.staticwebassets.endpoints.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\OrderManagementApi.exe
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\OrderManagementApi.deps.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\OrderManagementApi.runtimeconfig.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\OrderManagementApi.runtimeconfig.dev.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\OrderManagementApi.dll
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\OrderManagementApi.pdb
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.csproj.AssemblyReference.cache
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.AssemblyInfoInputs.cache
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.AssemblyInfo.cs
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.csproj.CoreCompileInputs.cache
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.sourcelink.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\scopedcss\scopedcss.cache
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\scopedcss\bundle\OrderManagementApi.styles.css
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderMan.9A9FD717.Up2Date
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.dll
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\refint\OrderManagementApi.dll
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.pdb
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\OrderManagementApi.genruntimeconfig.cache
+C:\Work\Ahmed\Projects\SecurityDemo\threat-modeling-demo\OrderManagementApi\obj\Debug\net10.0\ref\OrderManagementApi.dll
